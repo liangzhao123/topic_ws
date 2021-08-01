@@ -1,0 +1,4 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_2020_7_27_上午1_21_[Default_Changelist]" date="1595784110058" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_7_27_上午1_21_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2020/7/27 上午1:21 [Default Changelist]" />
+</changelist>
