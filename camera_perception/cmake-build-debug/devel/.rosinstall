@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/liang/topic_ws/camera_perception/cmake-build-debug/devel/setup.sh

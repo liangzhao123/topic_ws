@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/liang/topic_ws/catkin_workspace/devel/setup.sh
